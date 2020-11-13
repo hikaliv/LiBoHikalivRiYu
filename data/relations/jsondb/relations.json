@@ -1,0 +1,168 @@
+[
+  {
+    "标": "CoVgCXDavwrc4FAMXWzNL6mJss1MynZBFG4HRQ2kwBfa",
+    "联": {
+      "F1Sn5k63JnXpj33BVuhVtWF1CV7GtNen7N6byp7HK6ZN": "关联他动词"
+    }
+  },
+  {
+    "标": "F1Sn5k63JnXpj33BVuhVtWF1CV7GtNen7N6byp7HK6ZN",
+    "联": {
+      "CoVgCXDavwrc4FAMXWzNL6mJss1MynZBFG4HRQ2kwBfa": "关联自动词"
+    }
+  },
+  {
+    "标": "FVGp6QDAxgTWXYzgs1psFQtUGXCQH221n2UrzeTU4Amq",
+    "联": {
+      "5pa2yGjXPgVAKotaYg7TrfDYezf6DKNpuKw2gERW6AjZ": "同义异用"
+    }
+  },
+  {
+    "标": "5pa2yGjXPgVAKotaYg7TrfDYezf6DKNpuKw2gERW6AjZ",
+    "联": {
+      "FVGp6QDAxgTWXYzgs1psFQtUGXCQH221n2UrzeTU4Amq": "同义异用"
+    }
+  },
+  {
+    "标": "WxrGLPirjXBymtaqZsXbczd9K8kPwXV5ietWX1xHHYg",
+    "联": {
+      "4KZ6AbfHSzWCCE8oL77jHfy9kYD3GWXxvdHtkYQeDSWn": "反义词"
+    }
+  },
+  {
+    "标": "4KZ6AbfHSzWCCE8oL77jHfy9kYD3GWXxvdHtkYQeDSWn",
+    "联": {
+      "WxrGLPirjXBymtaqZsXbczd9K8kPwXV5ietWX1xHHYg": "反义词"
+    }
+  },
+  {
+    "标": "4idxrbkS5KUeEeuczGa32TmE1TTpn5fpqkTQN8vSYy7W",
+    "联": {
+      "FN87eGtQEevMhqD6ocBexLrR7M4VYM218TJvBRHJCQDY": "反义词",
+      "CqJLaMt3zgNHNeQN9X9D4VToKta3PMa94PHpjr8fxWHj": "反义词"
+    }
+  },
+  {
+    "标": "FN87eGtQEevMhqD6ocBexLrR7M4VYM218TJvBRHJCQDY",
+    "联": {
+      "4idxrbkS5KUeEeuczGa32TmE1TTpn5fpqkTQN8vSYy7W": "反义词",
+      "CqJLaMt3zgNHNeQN9X9D4VToKta3PMa94PHpjr8fxWHj": "近义词"
+    }
+  },
+  {
+    "标": "CqJLaMt3zgNHNeQN9X9D4VToKta3PMa94PHpjr8fxWHj",
+    "联": {
+      "4idxrbkS5KUeEeuczGa32TmE1TTpn5fpqkTQN8vSYy7W": "反义词",
+      "FN87eGtQEevMhqD6ocBexLrR7M4VYM218TJvBRHJCQDY": "近义词"
+    }
+  },
+  {
+    "标": "HgWZKdAHhbtL1HaGCTVgf7BpJUUpTGQeyKYH1i4Ec8dV",
+    "联": {
+      "3aH5SX9TPLTNHb4ih6aG9Mi1APz7vLzNBRoDQ9SALHiX": "关联他动词"
+    }
+  },
+  {
+    "标": "3aH5SX9TPLTNHb4ih6aG9Mi1APz7vLzNBRoDQ9SALHiX",
+    "联": {
+      "HgWZKdAHhbtL1HaGCTVgf7BpJUUpTGQeyKYH1i4Ec8dV": "关联自动词"
+    }
+  },
+  {
+    "标": "7US2TLUoGNsE3hYjScWB2bMUCPGeHuNmagXMQgC5XEnY",
+    "联": {
+      "GAzy14hchG7KCma9cux4vtNQbNmDjPUH6qoGmVoAVfX9": "关联词",
+      "Bp9pAwviwhoP34sSAkYRsaDDpnMvwVPWh6YhKc9oJZLM": "关联词"
+    }
+  },
+  {
+    "标": "GAzy14hchG7KCma9cux4vtNQbNmDjPUH6qoGmVoAVfX9",
+    "联": {
+      "7US2TLUoGNsE3hYjScWB2bMUCPGeHuNmagXMQgC5XEnY": "关联词",
+      "Bp9pAwviwhoP34sSAkYRsaDDpnMvwVPWh6YhKc9oJZLM": "同义词"
+    }
+  },
+  {
+    "标": "Bp9pAwviwhoP34sSAkYRsaDDpnMvwVPWh6YhKc9oJZLM",
+    "联": {
+      "7US2TLUoGNsE3hYjScWB2bMUCPGeHuNmagXMQgC5XEnY": "关联词",
+      "GAzy14hchG7KCma9cux4vtNQbNmDjPUH6qoGmVoAVfX9": "同义词"
+    }
+  },
+  {
+    "标": "2DAGBxYvQRmB3Pz6az83uVpagpTvxwPS2TgG3BwVqixc",
+    "联": {
+      "D3DNg8xdq9mfCks4ZoGmAVoycGhr25ptpTQ1fjDeL6La": "关联他动词"
+    }
+  },
+  {
+    "标": "D3DNg8xdq9mfCks4ZoGmAVoycGhr25ptpTQ1fjDeL6La",
+    "联": {
+      "2DAGBxYvQRmB3Pz6az83uVpagpTvxwPS2TgG3BwVqixc": "关联自动词",
+      "8AZ8D1qeBe5Je44yiNfLRsRGShGDkdw3CHV729BtzdkY": "关联同义词"
+    }
+  },
+  {
+    "标": "8AZ8D1qeBe5Je44yiNfLRsRGShGDkdw3CHV729BtzdkY",
+    "联": {
+      "D3DNg8xdq9mfCks4ZoGmAVoycGhr25ptpTQ1fjDeL6La": "关联同义词"
+    }
+  },
+  {
+    "标": "4xQ62gUfCuptgCfggnzmAFDn91gnFhpTcKzrvaqNRoEa",
+    "联": {
+      "2wpmbJWTQjdeKhMKfx81LJax8Ei7bZYoRmNvhPz7uKg6": "关联他动词"
+    }
+  },
+  {
+    "标": "2wpmbJWTQjdeKhMKfx81LJax8Ei7bZYoRmNvhPz7uKg6",
+    "联": {
+      "4xQ62gUfCuptgCfggnzmAFDn91gnFhpTcKzrvaqNRoEa": "关联自动词"
+    }
+  },
+  {
+    "标": "82aKU8qsjogQhrj7kbKv1MB6JQ3vUhKvVx558W3EjZpi",
+    "联": {
+      "HjRg7oBwwvE1PeWa2y2YVAmoJR3C1MUaowj9UBc7v6X4": "关联词",
+      "2W4i4okmmPSM4XmshL57NXShZKr2mSiphU9tBU152Psy": "关联他动词"
+    }
+  },
+  {
+    "标": "2W4i4okmmPSM4XmshL57NXShZKr2mSiphU9tBU152Psy",
+    "联": {
+      "HjRg7oBwwvE1PeWa2y2YVAmoJR3C1MUaowj9UBc7v6X4": "关联词",
+      "82aKU8qsjogQhrj7kbKv1MB6JQ3vUhKvVx558W3EjZpi": "关联自动词"
+    }
+  },
+  {
+    "标": "HjRg7oBwwvE1PeWa2y2YVAmoJR3C1MUaowj9UBc7v6X4",
+    "联": {
+      "82aKU8qsjogQhrj7kbKv1MB6JQ3vUhKvVx558W3EjZpi": "关联词",
+      "2W4i4okmmPSM4XmshL57NXShZKr2mSiphU9tBU152Psy": "关联词"
+    }
+  },
+  {
+    "标": "CfBmdKxF6LpqqttbnKLatx6cAN3FTYw3Q89Exx7S5map",
+    "联": {
+      "5TE76EW2qXKard2UtYJEpT1Ym3BEyE7o9ifkgd8P1zk5": "关联他动词"
+    }
+  },
+  {
+    "标": "5TE76EW2qXKard2UtYJEpT1Ym3BEyE7o9ifkgd8P1zk5",
+    "联": {
+      "CfBmdKxF6LpqqttbnKLatx6cAN3FTYw3Q89Exx7S5map": "关联自动词"
+    }
+  },
+  {
+    "标": "3C6RyCgg85q8NaK4iEpoQFqWdT7EJAgXb71Wo2FD8zCq",
+    "联": {
+      "3SrkwHraX16zsFzgaZ2THc73WcZxVfywaQg9fLTYt8WC": "关联他动词"
+    }
+  },
+  {
+    "标": "3SrkwHraX16zsFzgaZ2THc73WcZxVfywaQg9fLTYt8WC",
+    "联": {
+      "3C6RyCgg85q8NaK4iEpoQFqWdT7EJAgXb71Wo2FD8zCq": "关联自动词"
+    }
+  }
+]
